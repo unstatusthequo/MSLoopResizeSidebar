@@ -1,0 +1,1 @@
+Microsoft will probably / hopefully fix this into a sidebar with an adjustable divider. Until then, this can help you when you have deep "folder" structures and pages with descriptive names that are lost in the sidebar's 320px limitations. 
